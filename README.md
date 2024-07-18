@@ -31,3 +31,6 @@ To run this application locally or in a deployment environment, you need to set 
 3. **Install Dependencies:**
    ```bash
    run this command in terminal of repofolder: npm install
+4. **Run Backend Using Dockers:**
+   ```bash
+   https://hub.docker.com/repository/docker/syedalimurtaza12/webxaibackend/general
