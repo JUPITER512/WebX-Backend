@@ -25,3 +25,9 @@ To run this application locally or in a deployment environment, you need to set 
    ```bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
+2. **Create a .env file:**
+   ```bash
+   ADD ALL THE .env key value pairs
+3. **Install Dependencies:**
+   ```bash
+   run this command in terminal of repofolder: npm install
