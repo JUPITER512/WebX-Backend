@@ -1,0 +1,27 @@
+# Node.js Backend Repository
+
+Welcome to the Node.js backend repository for your WebXAi. This repository contains the backend logic and API endpoints necessary for your application.
+
+## Environment Variables
+
+To run this application locally or in a deployment environment, you need to set up the following environment variables:
+
+- **PORT**: The port on which the server will run. Default is `3000`.
+- **CORS_ORIGIN**: CORS origin allowed for requests. Default is `*`.
+- **DATABASE_CONNECTION_STRING**: Connection string for your database.
+- **email**: Email configuration for sending emails.
+- **passwordForEmail**: Password for the email configuration.
+- **ACCESS_TOKEN_SECRET**: Secret key for generating access tokens.
+- **ACCESS_TOKEN_EXPIRY**: Expiry duration for access tokens.
+- **REFRESH_TOKEN_SECRET**: Secret key for generating refresh tokens.
+- **REFRESH_TOKEN_EXPIRY**: Expiry duration for refresh tokens.
+- **CLOUDINARY_NAME**: Cloudinary account name.
+- **CLOUDINARY_API_KEY**: API key for Cloudinary integration.
+- **CLOUDINARY_SECRET**: Secret key for Cloudinary integration.
+
+## Setup Instructions
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
