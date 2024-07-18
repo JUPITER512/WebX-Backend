@@ -33,4 +33,4 @@ To run this application locally or in a deployment environment, you need to set 
    run this command in terminal of repofolder: npm install
 4. **Run Backend Using Dockers:**
    ```bash
-   https://hub.docker.com/repository/docker/syedalimurtaza12/webxaibackend/general
+   https://hub.docker.com/r/syedalimurtaza12/webxaibackend
