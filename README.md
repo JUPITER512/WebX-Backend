@@ -2,6 +2,12 @@
 
 Welcome to the Node.js backend repository for your WebXAi. This repository contains the backend logic and API endpoints necessary for your application.
 
+## Important Information
+
+- **Use gmail email and app password using your gmail account :**
+  ```for more information check this
+  https://support.google.com/mail/answer/185833?hl=en
+
 ## Environment Variables
 
 To run this application locally or in a deployment environment, you need to set up the following environment variables:
@@ -18,6 +24,9 @@ To run this application locally or in a deployment environment, you need to set 
 - **CLOUDINARY_NAME**: Cloudinary account name.
 - **CLOUDINARY_API_KEY**: API key for Cloudinary integration.
 - **CLOUDINARY_SECRET**: Secret key for Cloudinary integration.
+
+## Mongo Db Database
+   you need mongo db instance url
 
 ## Setup Instructions
 
